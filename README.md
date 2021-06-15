@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kacper
+- 👀 I’m interested in IT Security
+- 📫 How to reach me slack or email
